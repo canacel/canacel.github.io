@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on canacel-blog</title>
+    <link>https://canacel.github.io/post/</link>
+    <description>Recent content in Posts on canacel-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy; Copyright canacel-blog 2017</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 21:40:10 +0900</lastBuildDate>
+    
+	<atom:link href="https://canacel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TRILIAN貰った</title>
+      <link>https://canacel.github.io/post/2017-12-17_trilian/</link>
+      <pubDate>Sun, 17 Dec 2017 21:40:10 +0900</pubDate>
+      
+      <guid>https://canacel.github.io/post/2017-12-17_trilian/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Bass音源の最高峰、Trilianが家に届きました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>さいしょの記事</title>
+      <link>https://canacel.github.io/post/2017-12-13_firstpost/</link>
+      <pubDate>Wed, 13 Dec 2017 21:51:02 +0900</pubDate>
+      
+      <guid>https://canacel.github.io/post/2017-12-13_firstpost/</guid>
+      <description>ブログを新調した！まだカスタマイズ中です。 目標は消さないことです。
+　</description>
+    </item>
+    
+  </channel>
+</rss>
